@@ -30,9 +30,9 @@ class BlogsController < ApplicationController
       @blog = Blog.find(params[:id])
       @user = @blog.user
       if @blog.update(blog_params)
-          redirect_to users_path,notice:"ブログを編集しました！"
+          redirect_to users_path(@user),notice:"ブログを編集しました！"
       else
-          render'edit'
+          render'edit'
       end
   end
   
