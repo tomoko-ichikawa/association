@@ -30,13 +30,13 @@ Kernel configured for up to 4 processors.
 Processor type: x86_64h (Intel x86-64h Haswell)
 Processors active: 0 1 2 3
 Primary memory available: 8.00 gigabytes
-Default processor set: 362 tasks, 1590 threads, 4 processors
-Load average: 46.78, Mach factor: 0.27
+Default processor set: 354 tasks, 1585 threads, 4 processors
+Load average: 24.86, Mach factor: 0.55
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
-PATH: /Users/ichikawatomoko/.rbenv/versions/2.3.1/bin
+PATH: /Users/ichikawatomoko/.rbenv/versions/2.6.3/bin
 PATH: /usr/local/Cellar/rbenv/1.1.2/libexec
 PATH: /Users/ichikawatomoko/.rbenv/plugins/ruby-build/bin
 PATH: /Users/ichikawatomoko/.rbenv/shims
